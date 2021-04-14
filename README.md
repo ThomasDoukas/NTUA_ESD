@@ -11,7 +11,5 @@ Lab 4: FPGA High Level Synthesis
 Lab 5: Cross-Compiling
 
 Contributors:
-
 [Thomas Doukas](https://github.com/ThomasDoukas)
-
 [Giannis Psarras](https://github.com/giannispsarr)
