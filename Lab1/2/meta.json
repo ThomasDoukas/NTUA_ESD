@@ -1,0 +1,1 @@
+{"size_N": 10000000, "all_costs": [0.0432532, 0.0420276, 0.0419135, 0.0419424, 0.0417059, 0.0431952, 0.046373, 0.048001, 0.0471118, 0.0461164], "mean_transfer": Infinity, "LastCounter": 64, "SourceName": "tables_orio.c", "loop_transformations": [], "coordinate": [31], "average_cost": 0.0442652, "src_filenames": "tables_orio.c", "UF": 32}

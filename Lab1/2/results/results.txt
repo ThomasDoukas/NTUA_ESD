@@ -1,0 +1,23 @@
+No unroll
+    Min time:  419819
+    Max time:  599381
+    Median:  567550.5
+    Average time:  551646.2
+
+Simplex (as in simplex_tables.c made by _simplex_tables.c): UL=6
+    Min time:  357478
+    Max time:  413171
+    Median:  377440.5
+    Average time:  378535.3
+
+Exhaustive (as in exhaustive_tables.c made by _exhaustive_tables.c): UL=23
+    Min time:  354981
+    Max time:  374948
+    Median:  358327.0
+    Average time:  361295.9
+
+Random (as in random_tables.c made by _random_tables.c): UL=15
+    Min time:  355767
+    Max time:  383426
+    Median:  367116.0
+    Average time:  367369.5
